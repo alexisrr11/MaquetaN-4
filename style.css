@@ -48,7 +48,7 @@ body {
 }
 .presentacion h1 {
     font-size: 100px;
-    font-weight: 100;
+    font-weight: 700;
     padding-bottom: 20px;
     color: var(--color-primary);
 }
